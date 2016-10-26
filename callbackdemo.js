@@ -29,9 +29,9 @@ var data2 = fs.readFile('input.txt',function(err,readdata){
     console.log(readdata.toString());
 });
 
-var data2 = fs.readFile('input.txt', (err, readData) => {
-  if (err) throw err;
-  console.log(readData.toString());
-});
-console.log("end test2");
+// var data2 = fs.readFile('input.txt', (err, readData) => {
+//   if (err) throw err;
+//   console.log(readData.toString());
+// });
+// console.log("end test2");
 
