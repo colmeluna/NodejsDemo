@@ -1,0 +1,6 @@
+{
+  "name"    : "node_mysql",
+  "version" : "v1.4.4",
+  "main"    : "main.js",
+  "dependencies.electron-prebuilt":"v1.4.4"
+}
