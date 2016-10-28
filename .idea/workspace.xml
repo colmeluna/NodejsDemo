@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c81c46c-926b-4d08-aefb-ca512b45d8a7" name="Default" comment="spider">
+    <list default="true" id="5c81c46c-926b-4d08-aefb-ca512b45d8a7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="e9943f11-1689-48c1-843d-5721be2bb94c" name="Rejected commit: Default" comment="操作mysql" />
@@ -65,8 +65,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -297,7 +297,7 @@
       <workItem from="1477647096348" duration="1125000" />
       <workItem from="1477649812586" duration="1175000" />
       <workItem from="1477678402603" duration="45000" />
-      <workItem from="1477678471698" duration="144000" />
+      <workItem from="1477678471698" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="nodejs function">
       <created>1477046077524</created>
@@ -355,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477650471828</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ignore">
+      <created>1477678635085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1477678635085</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16158000" />
+    <option name="totallyTimeSpent" value="16299000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -431,7 +438,8 @@
     <MESSAGE value="操作mysql" />
     <MESSAGE value="spider" />
     <MESSAGE value="readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme.md" />
+    <MESSAGE value="ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -802,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
