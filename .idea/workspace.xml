@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c81c46c-926b-4d08-aefb-ca512b45d8a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/expressDemo/expressDemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/expressDemo/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fs-extra-demo/emptyDir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fs-extra-demo/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fs-extra-demo/movetest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fs-extra-demo/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json/book.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json/result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs_mysql_demo/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/input333.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/inputBig.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/jsonString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/readjsonandwrite.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fs-extra-demo/tmp/1.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/callbackdemo.js" afterPath="$PROJECT_DIR$/old/callbackdemo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/eventEmitters.js" afterPath="$PROJECT_DIR$/old/eventEmitters.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/eventEmitters2.js" afterPath="$PROJECT_DIR$/old/eventEmitters2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/eventEmitters3.js" afterPath="$PROJECT_DIR$/old/eventEmitters3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/eventEmitters_error.js" afterPath="$PROJECT_DIR$/old/eventEmitters_error.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/input.txt" afterPath="$PROJECT_DIR$/old/input.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mysql-run.js" afterPath="$PROJECT_DIR$/old/mysql-run.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs_buffer.js" afterPath="$PROJECT_DIR$/old/nodejs_buffer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs_http.js" afterPath="$PROJECT_DIR$/old/nodejs_http.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs_post.js" afterPath="$PROJECT_DIR$/old/nodejs_post.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs_stream.js" afterPath="$PROJECT_DIR$/old/nodejs_stream.js" />
+    <list default="true" id="5c81c46c-926b-4d08-aefb-ca512b45d8a7" name="Default" comment="fs-extra">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inputBig.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/output.txt" afterPath="$PROJECT_DIR$/old/output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodejs_mysql_demo/mysql.js" afterPath="$PROJECT_DIR$/nodejs_mysql_demo/mysql.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodejs_mysql_demo/mysql.json" afterPath="$PROJECT_DIR$/nodejs_mysql_demo/mysql.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_demo/app.js" afterPath="$PROJECT_DIR$/spider_demo/app.js" />
     </list>
     <list id="e9943f11-1689-48c1-843d-5721be2bb94c" name="Rejected commit: Default" comment="操作mysql" />
     <ignored path="NodejsDemo.iws" />
@@ -66,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -86,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="emptyDir.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="emptyDir.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fs-extra-demo/emptyDir.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -137,10 +110,10 @@
         <option value="$PROJECT_DIR$/json/book.json" />
         <option value="$PROJECT_DIR$/nodejs_mysql_demo/mysql.js" />
         <option value="$PROJECT_DIR$/jsonString.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/fs-extra-demo/movetest.js" />
         <option value="$PROJECT_DIR$/fs-extra-demo/index.js" />
         <option value="$PROJECT_DIR$/fs-extra-demo/emptyDir.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -157,10 +130,9 @@
     <handled-path value="$PROJECT_DIR$/spider_demo/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="255" />
-    <option name="y" value="72" />
-    <option name="width" value="1337" />
-    <option name="height" value="885" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -187,6 +159,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,12 +195,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/gitclone/XmlFile2JsonFile" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
@@ -356,7 +328,8 @@
       <workItem from="1477678471698" duration="2100000" />
       <workItem from="1477906220810" duration="1359000" />
       <workItem from="1478007450746" duration="1963000" />
-      <workItem from="1478054093743" duration="8004000" />
+      <workItem from="1478054093743" duration="8386000" />
+      <workItem from="1478096693961" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="nodejs function">
       <created>1477046077524</created>
@@ -428,11 +401,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477678761265</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fs-extra">
+      <created>1478084576399</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1478084576399</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29440000" />
+    <option name="totallyTimeSpent" value="29854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -444,26 +424,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="255" y="72" width="1337" height="885" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="975" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3700608" sideWeight="0.49375" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3694997" sideWeight="0.49375" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858837" sideWeight="0.49102333" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2751982" sideWeight="0.510772" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40569395" sideWeight="0.49640933" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3656999" sideWeight="0.49782744" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955116" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32408574" sideWeight="0.2886406" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31149012" sideWeight="0.50625" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2880117" sideWeight="0.489228" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3656999" sideWeight="0.49782744" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.4978903" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2880117" sideWeight="0.489228" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +485,8 @@
     <MESSAGE value="spider" />
     <MESSAGE value="readme.md" />
     <MESSAGE value="ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="fs-extra" />
+    <option name="LAST_COMMIT_MESSAGE" value="fs-extra" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -678,14 +659,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider_demo/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="292">
-            <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -693,6 +666,14 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="292">
+            <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider_demo/package.json">
@@ -710,6 +691,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nodejs_mysql_demo/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -717,9 +701,6 @@
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nodejs_mysql_demo/tsconfig.json">
@@ -754,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,26 +820,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fs-extra-demo/tmp/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fs-extra-demo/tmp/1.txt" />
     <entry file="file://$PROJECT_DIR$/fs-extra-demo/movetest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -889,6 +844,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
