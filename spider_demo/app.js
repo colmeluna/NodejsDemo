@@ -26,6 +26,7 @@ var cheerio = require('cheerio');
 //     </p>
 //   </div>
 // </div>
+
 app.get('/',function(req,res){
   request('http://www.wallone.com.cn',function(error,response,body){
     if(!error&&response.statusCode==200){
@@ -39,4 +40,6 @@ app.get('/',function(req,res){
     }
   })
 });
+console.log('go Server start');
 app.listen(3000);
+console.log(('linstening port 3000,check localhost:3000/ now'));

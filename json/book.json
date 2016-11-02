@@ -1,0 +1,7 @@
+[
+  {"name":"book1","category":"1","quantity":"27","allowlend":"1"},
+  {"name":"book2","category":"2","quantity":"27","allowlend":"1"},
+  {"name":"book3","category":"3","quantity":"27","allowlend":"1"},
+  {"name":"book4","category":"4","quantity":"27","allowlend":"1"},
+  {"name":"book5","category":"5","quantity":"27","allowlend":"1"}
+]

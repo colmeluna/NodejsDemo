@@ -29,9 +29,19 @@ var data2 = fs.readFile('input.txt',function(err,readdata){
     console.log(readdata.toString());
 });
 
-// var data2 = fs.readFile('input.txt', (err, readData) => {
-//   if (err) throw err;
-//   console.log(readData.toString());
-// });
-// console.log("end test2");
+console.log("准备写入文件");
 
+fs.writeFile('input333.txt', '我是通过写入的文件内容！',  function(err) {
+    if (err) {
+        return console.error(err);
+    }
+    console.log("数据写入成功！");
+    console.log("--------我是分割线-------------")
+    console.log("读取写入的数据！");
+    fs.readFile('input.txt', function (err, data) {
+        if (err) {
+            return console.error(err);
+        }
+        console.log("异步读取文件数据: " + data.toString());
+    });
+});

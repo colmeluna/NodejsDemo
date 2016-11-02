@@ -3,7 +3,6 @@
   "version": "6.2.1",
   "private": false,
   "dependencies": {
-   
+    "fs-extra": "^1.0.0"
   }
 }
-
